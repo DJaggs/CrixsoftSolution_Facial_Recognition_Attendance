@@ -75,7 +75,7 @@ Facial-Recognition-Attendance-System/
 ### 1. Clone and install dependencies
 
 ```bash
-git clone https://github.com/<your-username>/Crixsoft-Solution_Facial-Recognition-Attendance-System.git
+git clone https://github.com/<DJagge>/Crixsoft-Solution_Facial-Recognition-Attendance-System.git
 cd Crixsoft-Solution_Facial-Recognition-Attendance-System
 pip install -r requirements.txt
 ```
